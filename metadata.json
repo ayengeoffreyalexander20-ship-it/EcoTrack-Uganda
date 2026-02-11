@@ -1,0 +1,8 @@
+{
+  "name": "EcoTrack Uganda",
+  "description": "A comprehensive sustainability platform for Ugandans to track carbon footprints, participate in community challenges, and receive AI-powered eco-recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
